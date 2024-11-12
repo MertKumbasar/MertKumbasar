@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert Kumbasar</h1>
 <h3 align="center">A passionate computer engineering student</h3>
 
-- 🌱 I’m currently learning **Web development, Machine learning**
+- 🌱 I’m currently learning **Web development, Machine learning, Artificial Intelligence**
 
 - 📫 How to reach me **kumbasarmert@gmail.com**
 
